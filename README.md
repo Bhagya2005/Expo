@@ -3,4 +3,19 @@
 👉 **[🔧 Working Demo](https://bhagyapatel-portfolio.vercel.app/projects-web.html)**  
 👉 **[📘 Project Details](https://bhagyapatel-portfolio.vercel.app/projects-web.html)**  
 
-Engineered a budget-aware expense tracker that not only records spending but also guides users with category-wise spending limits and live utilization percentages. Designed a group expense splitting system that automatically calculates individual shares and generates itemized receipts. Enabled one-click sharing of receipts via WhatsApp and social media, turning expense tracking into a connected, collaborative experience. Integrated real-time financial visualization using interactive charts to highlight trends and overspending risks. Delivered a custom dashboard experience that adapts per user’s budget goals, alerts, and recent activity.
+## 🚀 Features
+
+- 📊 **Budget-Aware Expense Tracking**  
+  Tracks expenses while guiding users with category-wise spending limits and real-time utilization percentages.
+
+- 🤝 **Smart Group Expense Splitting**  
+  Automatically calculates individual shares for group expenses and generates clear, itemized receipts.
+
+- 📤 **One-Click Receipt Sharing**  
+  Share receipts instantly via WhatsApp and social media platforms for better collaboration.
+
+- 📈 **Real-Time Financial Visualizations**  
+  Integrated interactive charts to highlight spending trends and detect overspending risks.
+
+- 🧩 **Personalized Dashboard Experience**  
+  Customizes the user dashboard based on personal budget goals, alerts, and recent financial activity.
